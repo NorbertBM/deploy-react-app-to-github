@@ -2,7 +2,7 @@
   "name": "deploy-react-app-to-github",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NorbertBM.github.io",
+  "homepage": "https://NorbertBM.github.io/deploy-react-app-to-github.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
